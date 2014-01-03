@@ -95,8 +95,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .section { margin-left:15%; padding-top:80px; padding-right:15%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
-.index-content .artical-list li { margin-bottom:70px; }
-.index-content h2 { font-size:20px; margin-bottom:15px; }
+.index-content .artical-list li { margin-bottom:30px; }
+.index-content h2 { font-size:20px; margin-bottom:10px; }
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
 .index-content .title-desc {color:#999;font-size:14px;line-height:1.6em;}
@@ -108,7 +108,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .artical-cate li a:hover { text-decoration:none; }
 .index-content .artical-cate li.on span{ color:red; }
 
-.index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:100px; }
+.index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:60px; }
 .index-content #cateBar { display:inline-block; zoom:1; height:3px; background:red; position:relative; width:0; }
 
 /***************Wiki Style*****************/
