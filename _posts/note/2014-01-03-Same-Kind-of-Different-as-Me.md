@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读《世界上的另一个你》有感
+title: 《世界上的另一个你》
 category: note
 description: 最艰难的时候，有没有谁，愿意陪你一同走过？
 ---
