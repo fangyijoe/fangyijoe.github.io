@@ -1,4 +1,4 @@
-var swfUrl = "honehone_clock_tr.swf";
+var swfUrl = "/time/honehone_clock_tr.swf";
 var swfTitle = "honehoneclock";
 LoadBlogParts();
 function LoadBlogParts(){
