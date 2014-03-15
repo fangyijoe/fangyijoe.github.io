@@ -18,6 +18,8 @@ q:before,q:after {content:'';}
 sup{vertical-align:text-top;}
 sub{vertical-align:text-bottom;}
 
+.index-content{background-color:#E8E8E8;}
+
 .clearfix:after {visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
 .clearfix{zoom:1;}
 body .hide{display:none;}
