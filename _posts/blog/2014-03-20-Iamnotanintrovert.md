@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am not an introvert. I am just busy.
-description: I am not an introvert. I am just busy.？
+description: I am not an introvert. I am just busy.
 category: blog
 ---
 For a few weeks now I’ve been fighting with a really odd bug. I have a server process that opens a persistent connection to a service provider, authenticates the end user, and then performs a series of streaming operations.
