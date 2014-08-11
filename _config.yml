@@ -6,6 +6,6 @@ paginate: 8
 permalink: /:title
 
 title: Er...What's that?
-url: http://fangyi.me
+url: http://fangyijoe.github.io
 feed: /atom.xml
-author_info: <a href="http://fangyi.me/">FangyiJoe</a>
+author_info: <a href="http://fangyijoe.github.io/">FangyiJoe</a>
