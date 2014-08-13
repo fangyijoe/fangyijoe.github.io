@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content essay">
+<div class="index-content d">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Sh...</span></a></li>
@@ -16,7 +16,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.essay %}
+        {% for post in site.categories.d %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
