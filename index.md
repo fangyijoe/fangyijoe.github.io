@@ -5,9 +5,12 @@ layout: home
 <div class="index-content essay">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Essay</span></a></li>
+            <li class="on"><a href="/"><span>Sh...</span></a></li>
+        <!--
+            <li class="on"><a href="/essay"><span>Essay</span></a></li>
             <li style="text-align:center"><a href="/blog"><span>Blog</span></a></li>
             <li style="text-align:right"><a href="/note"><span>Note</span></a></li>
+        -->
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
