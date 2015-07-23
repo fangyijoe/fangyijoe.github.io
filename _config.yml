@@ -1,11 +1,14 @@
-auto: true
-
 markdown: rdiscount
-pygments: true
-paginate: 8
-permalink: /:title
-
-title: Strength and Honor. Shadow and Dust.
+permalink: /:title/
 url: http://fangyijoe.github.io
-feed: /atom.xml
-author_info: <a href="http://fangyijoe.github.io/">fangyiJoe</a>
+highlighter: pygments
+name: 会打球的牛
+description: 会打球的牛 | Strength and Honor. Shadow and Dust.
+author: fangyiJoe
+email: fangyi@flashapp.cn
+duoshuo: fangyiJoe
+weibo: 1891858481
+hub: fangyiJoe
+safe: true
+paginate: 100
+about: "于尘世修炼..."
