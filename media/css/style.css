@@ -1,18 +1,3 @@
-/*------------------------------------
-* sext
-*
-* @author linghua.zhang@me.com
-* @link http://lhzhang.com/
-* @update 2011-12-20
-* 
-* |/ | (~ (~
-* |\.|._)._)
-* --------------------------------- */
-
-/*@import url(http://fonts.googleapis.com/css?family=Galdeano);
-@import url(http://fonts.googleapis.com/css?family=Electrolize);
-@import url(http://fonts.googleapis.com/css?family=Cuprum);
-*/
 body{font-size:14px;word-spacing:1px;
         margin-left:auto;
 margin-right:auto;
@@ -54,7 +39,7 @@ td, th { padding:5px 10px; border:1px solid #886; background:#efefef; }
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-8em;width:6em;text-align:center;padding: 0em 0em;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
-nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+nav a:hover{background-color:#494C4D;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
 .post ul{padding:.5em 0em;}
 .post .listing2{padding:.5em 0em;border-style:none;}
